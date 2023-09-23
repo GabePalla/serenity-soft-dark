@@ -1,10 +1,25 @@
 {
 	"name": "Serenity-soft-dark-theme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#282C34",
+		"editor.foreground": "#ffeeee",
+
+		"activityBarBadge.background": "#ff0000",
+
+		"sideBarTitle.foreground": "#cccccc",
+		"sideBar.background": "#21252B",
+		"sideBarSectionHeader.background": "#333842",
+
+		"menu.background": "#333842",
+		"menu.selectionBackground": "#ff0000",
+		"menubar.selectionBackground": "#33373B",
+
+		"titleBar.activeBackground": "#21252B",
+		"commandCenter.background":"#32363C",
+
+		"breadcrumb.background":"#282C34",
+
+		"activityBar.background":"#333842",
 	},
 	"tokenColors": [
 		{
