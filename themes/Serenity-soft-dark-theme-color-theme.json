@@ -1,7 +1,6 @@
 {
   "name": "Serenity-soft-dark-theme",
   "colors": {
-    //EDITOR
     "editor.background": "#282C34",
     "editor.foreground": "#ffeeee",
     "editor.findMatchBackground": "#5654cc", //ver
@@ -53,9 +52,10 @@
     "breadcrumb.background": "#282C34",
 
     //ACTIVITY BAR (THE MOST LEST SIDE BAR)
-    "activityBarBadge.background": "#8f52ff",
+    "activityBarBadge.background": "#bdb2ff",
+    "activityBarBadge.foreground": "#000000",
     "activityBar.background": "#333842",
-    "activityBar.foreground": "#D7DAE0",
+    "activityBar.foreground": "#4364a5",
     "activityBar.inactiveForeground": "#8FA5B4",
 
     //EDITOR GROUP HEADER (HEADER THAT WRAPS THE TABS)
@@ -65,9 +65,17 @@
     "tab.activeBackground": "#282C34",
     "tab.inactiveBackground": "#21252B",
 
-	//STATUS BAR
-	"statusBar.background": "#8f52ff",
-	"statusBar.debuggingBackground": "#fae103"
+    //STATUS BAR
+    "statusBar.background": "#caffbf",
+    "statusBar.foreground": "#000000",
+    "statusBar.debuggingBackground": "#FCD483",
+    "statusBar.debuggingForeground": "#000000",
+
+    //DEBUG
+    "debugToolBar.background": "#58437a",
+    "debugToolBar.border": "#58437a",
+    "editor.inlineValuesBackground": "#9d4edd5e",
+    "editor.stackFrameHighlightBackground": "#9d4edd5e"
   },
   "tokenColors": [
     {
